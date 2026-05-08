@@ -2,7 +2,7 @@
 
 
 
-<a align="center" href="https://github.com/Rahim-Ahmed-10">
+<a href="https://github.com/Rahim-Ahmed-10">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=false&vCenter=false&width=435&lines=Hi+there%2C+I'm+Rahim+Miah!;Nice+to+meet+you!;A+Passionate+Frontend+Developer;I+love+React+and+Tailwind+CSS" alt="Typing SVG" />
 </a>
 
