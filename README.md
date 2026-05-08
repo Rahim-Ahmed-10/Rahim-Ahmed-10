@@ -38,7 +38,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahim-ahmed-10&show_icons=true&locale=en&layout=compact" alt="rahim-ahmed-10" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahim-ahmed-10&show_icons=true&locale=en" alt="rahim-ahmed-10" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahim-ahmed-10&show_icons=true&locale=en" alt="https://github.com/Rahim-Ahmed-10" /></p>
 
 
 <!--
