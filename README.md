@@ -1,3 +1,7 @@
+<img width="943" height="360" alt="WhatsApp Image 2026-05-08 at 8 28 43 PM" src="https://github.com/user-attachments/assets/da7f2c0e-93ed-4226-bb35-c3d15130effe" />
+
+
+
 <a href="https://github.com/Rahim-Ahmed-10">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=false&vCenter=false&width=435&lines=Hi+there%2C+I'm+Rahim+Miah!;Nice+to+meet+you!;A+Passionate+Frontend+Developer;I+love+React+and+Tailwind+CSS" alt="Typing SVG" />
 </a>
