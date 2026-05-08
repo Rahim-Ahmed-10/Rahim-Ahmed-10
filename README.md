@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=I+am+Rahim+Miah)](https://git.io/typing-svg)
+<a href="https://github.com/Rahim-Ahmed-10">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=false&vCenter=false&width=435&lines=Hi+there%2C+I'm+Rahim+Miah!;Nice+to+meet+you!;A+Passionate+Frontend+Developer;I+love+React+and+Tailwind+CSS" alt="Typing SVG" />
+</a>
+
+
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahim-ahmed-10&label=Profile%20views&color=0e75b6&style=flat" alt="rahim-ahmed-10" /> </p>
