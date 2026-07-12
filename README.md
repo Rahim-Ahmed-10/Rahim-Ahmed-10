@@ -83,7 +83,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 *   📧 **Email:** `rahimahmed01690@gmail.com`
 *   💬 **Facebook:** [Md. Rahim Miah](https://fb.com/100071816113262)
-*   🌐 **Portfolio:** [Coming Soon!](rahim-digital-portfolio.netlify.app)
+*   🌐 **Portfolio:** [Coming Soon!](https://rahim-digital-portfolio.netlify.app)
 
 <br>
 <p align="center">
