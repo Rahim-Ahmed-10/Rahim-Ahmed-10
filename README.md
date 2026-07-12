@@ -1,62 +1,66 @@
+<h1 align="center">Hi there, I'm Md. Rahim Mia! 👋</h1>
 
-<img width="865" height="216" alt="1772975212633" src="https://github.com/user-attachments/assets/805dba50-131b-4040-a7d7-75b3b940c240" />
-
-
-
-<a href="https://github.com/Rahim-Ahmed-10">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=false&vCenter=false&width=435&lines=Hi+there%2C+I'm+Rahim+Miah!;Nice+to+meet+you!;A+Passionate+Frontend+Developer;I+love+React+and+Tailwind+CSS" alt="Typing SVG" />
-</a>
-
-<h2 align="left">About Me</h2>
-
-I am **Md Rahim Miah**, a Humanities student and a passionate **Frontend Web Developer** based in Bangladesh. I love turning complex ideas into clean, responsive, and user-friendly web interfaces. My journey in web development is driven by curiosity and a desire to build things that make an impact.
-
-🚀 **What I love:**
-* Building interactive UIs with **React.js**.
-* Styling with **Tailwind CSS** to create aesthetic designs.
-* Constantly learning new technologies to stay updated with modern web trends.
-* Exploring the magic of **Next.js** to build scalable applications.
-
-Beyond coding, I am an enthusiast who loves managing creative projects and contributing to the tech community. Always open to new challenges and collaborative opportunities!
-
-
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahim-ahmed-10&label=Profile%20views&color=0e75b6&style=flat" alt="rahim-ahmed-10" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahim-ahmed-10" alt="rahim-ahmed-10" /></a> </p>
-
-<h2 align="left">🚀 Current Focus</h2>
-
-- 💻 **Building:** Currently deepening my expertise in **Next.js** to create fast, SEO-friendly web applications.
-- 🎨 **Designing:** Focusing on advanced **Tailwind CSS** configurations and custom component libraries.
-- 📖 **Learning:** Exploring state management solutions (like Redux/Context API) and backend basics with **Node.js**.
-- 💡 **Open to:** Contributing to Open Source projects related to **React** and **Next.js**.
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/100071816113262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100071816113262" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/805dba50-131b-4040-a7d7-75b3b940c240" width="865" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/Rahim-Ahmed-10">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=435&lines=Hi+there%2C+I'm+Rahim+Miah!;A+Passionate+Frontend+Developer;I+love+React+and+Tailwind+CSS;Building+the+Future+of+Web" alt="Typing SVG" />
+  </a>
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/Rahim-Ahmed-10"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Rahim-Ahmed-10" /></a></p><br><br>
+<h2 align="left">👨‍💻 About Me</h2>
+I am **Md. Rahim Mia**, a Humanities student and a passionate **Frontend Web Developer** from Bangladesh. I love turning complex ideas into clean, responsive, and user-friendly web interfaces. My journey is driven by curiosity and a desire to build impactful digital solutions.
 
+🚀 **What I focus on:**
+- Building interactive UIs with **React.js**.
+- Creating aesthetic designs with **Tailwind CSS**.
+- Exploring the power of **Next.js** for scalable applications.
+- Always learning and contributing to open-source projects.
 
+---
 
+<h2 align="left">📊 GitHub Statistics</h2>
+<p align="left">
+  <a href="https://github.com/Rahim-Ahmed-10">
+    <img src="https://github-readme-stats.vercel.app/api?username=Rahim-Ahmed-10&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Rahim-Ahmed-10-Stats" />
+  </a>
+  <a href="https://github.com/Rahim-Ahmed-10">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahim-Ahmed-10&layout=compact&theme=radical&hide_border=true" alt="Rahim-Ahmed-10-Langs" />
+  </a>
+</p>
 
-<!--
-**Rahim-Ahmed-10/Rahim-Ahmed-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Rahim-Ahmed-10&theme=radical" alt="Rahim-Ahmed-10-Trophy" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="left">🛠 Languages and Tools</h2>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+</p>
+
+---
+
+<h2 align="left">📫 Reach me</h2>
+- **Email:** rahimahmed01690@gmail.com
+- **Facebook:** [Md. Rahim Mia](https://fb.com/100071816113262)
+
+<h3 align="left">Support me:</h3>
+<a href="https://ko-fi.com/Rahim-Ahmed-10">
+  <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" alt="Ko-fi" />
+</a>
+
+<br><br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rahim-ahmed-10&label=Profile%20views&color=0e75b6&style=flat" alt="rahim-ahmed-10" />
+</p>
