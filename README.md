@@ -26,22 +26,12 @@ Beyond coding, I am an enthusiast who loves managing creative projects and contr
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahim-ahmed-10" alt="rahim-ahmed-10" /></a> </p>
 
-- 🔭 I’m currently working on **React and next.js**
+<h2 align="left">🚀 Current Focus</h2>
 
-- 🌱 I’m currently learning **React**
-
-- 👯 I’m looking to collaborate on **Open Source React Project**
-
-- 🤝 I’m looking for help with **Next.js**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Rahim-Ahmed-10](https://github.com/Rahim-Ahmed-10)
-
-- 💬 Ask me about **HTML, CSS, JavaScript, and Tailwind, React**
-
-- 📫 How to reach me **rahimahmed01690@gmail.com**
-
-- ⚡ Fun fact **I believe CSS is magic**
-
+- 💻 **Building:** Currently deepening my expertise in **Next.js** to create fast, SEO-friendly web applications.
+- 🎨 **Designing:** Focusing on advanced **Tailwind CSS** configurations and custom component libraries.
+- 📖 **Learning:** Exploring state management solutions (like Redux/Context API) and backend basics with **Node.js**.
+- 💡 **Open to:** Contributing to Open Source projects related to **React** and **Next.js**.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/100071816113262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100071816113262" height="30" width="40" /></a>
