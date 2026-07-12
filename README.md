@@ -7,6 +7,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=false&vCenter=false&width=435&lines=Hi+there%2C+I'm+Rahim+Miah!;Nice+to+meet+you!;A+Passionate+Frontend+Developer;I+love+React+and+Tailwind+CSS" alt="Typing SVG" />
 </a>
 
+<h2 align="left">About Me</h2>
+
+I am **Md Rahim Miah**, a Humanities student and a passionate **Frontend Web Developer** based in Bangladesh. I love turning complex ideas into clean, responsive, and user-friendly web interfaces. My journey in web development is driven by curiosity and a desire to build things that make an impact.
+
+🚀 **What I love:**
+* Building interactive UIs with **React.js**.
+* Styling with **Tailwind CSS** to create aesthetic designs.
+* Constantly learning new technologies to stay updated with modern web trends.
+* Exploring the magic of **Next.js** to build scalable applications.
+
+Beyond coding, I am an enthusiast who loves managing creative projects and contributing to the tech community. Always open to new challenges and collaborative opportunities!
+
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
