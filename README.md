@@ -81,21 +81,15 @@ I am **Md. Rahim Miah**, a Humanities student and an aspiring **Frontend Web Dev
 
 ---
 
-## 📊 GitHub Statistics
+<h2 align="left">📊 GitHub Statistics</h2>
 
 <p align="left">
-  <a href="https://github.com/Rahim-Ahmed-10">
-    <img src="https://github-readme-stats.vercel.app/api?username=Rahim-Ahmed-10&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Rahim-Ahmed-10 Stats" />
-  </a>
-  <a href="https://github.com/Rahim-Ahmed-10">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahim-Ahmed-10&layout=compact&theme=radical&hide_border=true" alt="Rahim-Ahmed-10 Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahim-Ahmed-10&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Rahim-Ahmed-10 Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahim-Ahmed-10&layout=compact&theme=radical&hide_border=true" alt="Rahim-Ahmed-10 Top Languages" />
 </p>
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Rahim-Ahmed-10&theme=radical" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Rahim-Ahmed-10&theme=radical" alt="GitHub Trophies" />
 </p>
 
 ---
