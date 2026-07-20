@@ -67,12 +67,12 @@ I am **Md. Rahim Miah**, a Humanities student and an aspiring **Frontend Web Dev
 <h2 align="left">📊 GitHub Statistics</h2>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahim-Ahmed-10&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Rahim-Ahmed-10 Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahim-Ahmed-10&layout=compact&theme=radical&hide_border=true" alt="Rahim-Ahmed-10 Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahim-Ahmed-10&show_icons=true&theme=radical&hide_border=true&count_private=true&cache=false" alt="Rahim-Ahmed-10 Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahim-Ahmed-10&layout=compact&theme=radical&hide_border=true&cache=false" alt="Rahim-Ahmed-10 Top Languages" />
 </p>
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rahim-Ahmed-10&theme=radical" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rahim-Ahmed-10&theme=radical&cache=false" alt="GitHub Trophies" />
 </p>
 
 ---
