@@ -1,11 +1,8 @@
 <h1 align="center">Hi there, I'm Md. Rahim Miah! 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/805dba50-131b-4040-a7d7-75b3b940c240" width="865" />
-</p>
+  <a href="https://github.com/Rahim-Ahmed-10"><img width="1993" height="512" alt="Gemini_Generated_Image_54p1ur54p1ur54p1" src="https://github.com/user-attachments/assets/41b76b58-f849-4143-8869-0ef83baa664b" />
 
-<p align="center">
-  <a href="https://github.com/Rahim-Ahmed-10">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=435&lines=Hi+there%2C+I'm+Rahim+Miah!;A+Passionate+Frontend+Developer;I+love+React+and+Tailwind+CSS;Welcome+to+my+profile!" alt="Typing SVG" />
   </a>
 </p>
