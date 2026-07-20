@@ -40,39 +40,43 @@ I am **Md. Rahim Miah**, a Humanities student and an aspiring **Frontend Web Dev
 
 ### Languages & Frameworks
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> &nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
 </p>
 
 ### Databases & Tools
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> &nbsp;
   <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="40" height="40"/>
 </p>
 
 ---
 
-<h2 align="left">📊 GitHub Statistics</h2>
+## 📊 GitHub Statistics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahim-Ahmed-10&show_icons=true&theme=radical&hide_border=true&count_private=true&cache=false" alt="Rahim-Ahmed-10 Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahim-Ahmed-10&layout=compact&theme=radical&hide_border=true&cache=false" alt="Rahim-Ahmed-10 Top Languages" />
+  <!-- সচল এবং চমৎকার ডার্ক থিম স্ট্যাটস কার্ড -->
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Rahim-Ahmed-10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rahim Stats" height="180" />
+  
+  <!-- কোডিং স্ট্রিক (টানা কতদিন কোড করেছেন) কার্ড -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahim-Ahmed-10&theme=tokyonight&hide_border=true" alt="Rahim Streak" height="180" />
 </p>
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rahim-Ahmed-10&theme=radical&cache=false" alt="GitHub Trophies" />
+  <!-- আপনার সবচেয়ে বেশি ব্যবহৃত ল্যাঙ্গুয়েজের কার্ড -->
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Rahim-Ahmed-10&layout=compact&theme=tokyonight&hide_border=true" alt="Rahim Top Languages" height="150" />
 </p>
 
 ---
@@ -81,11 +85,12 @@ I am **Md. Rahim Miah**, a Humanities student and an aspiring **Frontend Web Dev
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of a team.
 
-*   📧 **Email:** `rahimahmed01690@gmail.com`
-*   💬 **Facebook:** [Md. Rahim Miah](https://fb.com/100071816113262)
-*   🌐 **Portfolio:** [Coming Soon!](https://rahim-digital-portfolio.netlify.app)
+* 📧 **Email:** `rahimahmed01690@gmail.com`
+* 💬 **Facebook:** [Md. Rahim Miah](https://fb.com/100071816113262)
+* 🌐 **Portfolio:** [Coming Soon!](https://rahim-digital-portfolio.netlify.app)
 
 <br>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rahim-ahmed-10&label=Profile%20views&color=blueviolet&style=flat" alt="rahim-ahmed-10 profile views" />
 </p>
