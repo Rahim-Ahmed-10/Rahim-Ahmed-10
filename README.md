@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Md. Rahim Miah! 👋</h1>
+<h1 align="center">Hi there, I'm Rahim! 👋</h1>
 
 <p align="center">
   <a href="https://github.com/Rahim-Ahmed-10"><img width="1993" height="512" alt="Gemini_Generated_Image_54p1ur54p1ur54p1" src="https://github.com/user-attachments/assets/41b76b58-f849-4143-8869-0ef83baa664b" />
