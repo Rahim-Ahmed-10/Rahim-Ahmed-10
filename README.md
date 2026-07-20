@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Rahim-Ahmed-10">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=435&lines=Hi+there%2C+I'm+Rahim+Miah!;A+Passionate+Frontend+Developer;I+love+React+and+Tailwind+CSS;Welcome+to+my+profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=435&lines=Hi+there%2C+I'm+Rahim+Miah!;A+Passionate+Frontend+Developer;I+love+React+next.js+TypeScript;Welcome+to+my+profile!" alt="Typing SVG" />
   </a>
 </p>
 
