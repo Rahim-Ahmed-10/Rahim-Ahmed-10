@@ -29,7 +29,7 @@
 
 ## 👨‍💻 About Me
 
-I am **Md. Rahim Miah**, a Humanities student and an aspiring **Frontend Web Developer** based in Bangladesh. I am passionate about creating clean, responsive, and user-friendly web interfaces using modern technologies. My goal is to continuously learn and build impactful digital solutions.
+I am **Md. Rahim Miah**, a Humanities student and an aspiring **Full Stack Web Developer** based in Bangladesh. I am passionate about creating clean, responsive, and user-friendly web interfaces using modern technologies. My goal is to continuously learn and build impactful digital solutions.
 
 🚀 **My current focus:** Mastering **React.js** and exploring the full potential of **Next.js** along with **Tailwind CSS**.
 
