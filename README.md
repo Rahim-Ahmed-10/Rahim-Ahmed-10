@@ -4,10 +4,8 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Rahim-Ahmed-10"><img width="1993" height="512" alt="Gemini_Generated_Image_54p1ur54p1ur54p1" src="https://github.com/user-attachments/assets/41b76b58-f849-4143-8869-0ef83baa664b" />
-  </a>
-</p>
+<img width="1959" height="528" alt="Gemini_Generated_Image_5lwah35lwah35lwa" src="https://github.com/user-attachments/assets/daff3db0-432d-4b85-9f40-d8fbd8093149" />
+
 
 <!-- 🏆 Professional Badges Section -->
 <p align="center">
