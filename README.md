@@ -63,18 +63,33 @@ I am **Md. Rahim Miah**, a Humanities student and an aspiring **Full Stack Web D
 
 ## 📊 GitHub Statistics
 
-<p align="left">
-  <!-- সচল এবং চমৎকার ডার্ক থিম স্ট্যাটস কার্ড -->
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Rahim-Ahmed-10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rahim Stats" height="180" />
-  
-  <!-- কোডিং স্ট্রিক (টানা কতদিন কোড করেছেন) কার্ড -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahim-Ahmed-10&theme=tokyonight&hide_border=true" alt="Rahim Streak" height="180" />
+<!-- 🏆 GitHub Trophies (মেডেল ও ট্রফি) -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rahim-Ahmed-10&theme=tokyonight&column=6&margin-w=15&margin-h=15" alt="Rahim Trophies" width="100%" />
 </p>
 
-<p align="left">
-  <!-- আপনার সবচেয়ে বেশি ব্যবহৃত ল্যাঙ্গুয়েজের কার্ড -->
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Rahim-Ahmed-10&layout=compact&theme=tokyonight&hide_border=true" alt="Rahim Top Languages" height="150" />
+<br />
+
+<!-- 📈 Main Stats & Streak Cards -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahim-Ahmed-10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rahim Stats" height="175" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahim-Ahmed-10&theme=tokyonight&hide_border=true" alt="Rahim Streak" height="175" />
 </p>
+
+<!-- 💻 Top Languages & Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahim-Ahmed-10&layout=compact&theme=tokyonight&hide_border=true" alt="Rahim Top Languages" height="165" />
+</p>
+
+<br />
+
+<!-- 🌊 Activity Contribution Graph (অ্যাক্টিভিটি ওয়েভ গ্রাফ) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahim-Ahmed-10&theme=tokyonight&hide_border=true" alt="Rahim Activity Graph" width="100%" />
+</p>
+
+---
 
 ---
 
