@@ -10,19 +10,16 @@
   </a>
 </p>
 
-<!-- 🏆 Professional Badges Section -->
+<!-- 🏆 Badges -->
 <p align="center">
-  <a href="https://github.com/rahim-ahmed-10">
+  <a href="https://github.com/Rahim-Ahmed-10">
     <img src="https://img.shields.io/badge/Status-Learning%20Next.js-blue?style=for-the-badge&logo=next.js" alt="Status" />
   </a>
-  <a href="https://github.com/rahim-ahmed-10">
+  <a href="https://github.com/Rahim-Ahmed-10">
     <img src="https://img.shields.io/badge/Field-Full%20Stack%20Dev-orange?style=for-the-badge&logo=react" alt="Field" />
   </a>
   <a href="https://github.com/Rahim-Ahmed-10">
     <img src="https://img.shields.io/badge/Location-Bangladesh-red?style=for-the-badge&logo=openstreetmap" alt="Location" />
-  </a>
-  <a href="https://ko-fi.com/Rahim-Ahmed-10">
-    <img src="https://img.shields.io/badge/Support-Buy%20me%20a%20coffee-%23FF5E5B?style=for-the-badge&logo=ko-fi" alt="Support" />
   </a>
 </p>
 
@@ -30,9 +27,19 @@
 
 ## 👨‍💻 About Me
 
-I am **Md. Rahim Miah**, a Humanities student and an aspiring **Full Stack Web Developer** based in Bangladesh. I am passionate about creating clean, responsive, and user-friendly web interfaces using modern technologies. My goal is to continuously learn and build impactful digital solutions.
+I am **Md. Rahim Miah**, an aspiring **Full Stack Web Developer** based in Bangladesh. I am passionate about creating clean, responsive, and user-friendly web applications using modern web technologies. 
 
-🚀 **My current focus:** Mastering **React.js** and exploring the full potential of **Next.js** along with **Tailwind CSS**.
+* 🚀 **Current Focus:** Mastering **Next.js**, **React**, and **TypeScript**.
+* ⚡ **Dedication:** Coding 6-7 hours daily to build scalable web applications.
+
+---
+
+## 💻 Featured Projects
+
+| Project Name | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **Job Application Tracker** | Dynamic dashboard to manage and filter active applications | React, Tailwind, Express | [Live](#) \| [Code](#) |
+| **GitHub Issue Tracker** | Clean interface for filtering and tracking repository issues | React, Tailwind CSS | [Live](#) \| [Code](#) |
 
 ---
 
@@ -40,26 +47,15 @@ I am **Md. Rahim Miah**, a Humanities student and an aspiring **Full Stack Web D
 
 ### Languages & Frameworks
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="45" height="45"/> &nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="45" height="45"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="45" height="45"/>
-</p>
-
-### Databases & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="45" height="45"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45" height="45"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> &nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
 </p>
 
 ---
@@ -67,32 +63,28 @@ I am **Md. Rahim Miah**, a Humanities student and an aspiring **Full Stack Web D
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <!-- ১. স্ট্রিক কার্ড (১০০% সচল) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahim-Ahmed-10&theme=tokyonight&hide_border=true" alt="Rahim Streak" height="175" />
+  <img src="https://streak-stats.demolab.com/?user=Rahim-Ahmed-10&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <!-- ২. অ্যাক্টিভিটি গ্রাফ (১০০% সচল) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahim-Ahmed-10&theme=tokyonight&hide_border=true" alt="Rahim Activity Graph" width="100%" />
-</p>
-
-<p align="center">
-  <!-- ৩. প্রোফাইল সামারি কার্ডস (বিকল্প সচল সার্ভার) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rahim-Ahmed-10&theme=tokyonight" alt="Profile Summary" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahim-Ahmed-10&theme=tokyonight&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
 
 ---
 
 ## 📫 Get in Touch
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of a team.
-
-* 📧 **Email:** `rahimahmed01690@gmail.com`
-* 💬 **Facebook:** [Md. Rahim Miah](https://fb.com/100071816113262)
-* 🌐 **Portfolio:** [Coming Soon!](https://rahim-digital-portfolio.netlify.app)
+<p align="left">
+  <a href="mailto:rahimahmed01690@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://fb.com/100071816113262" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
 
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahim-ahmed-10&label=Profile%20views&color=blueviolet&style=flat" alt="rahim-ahmed-10 profile views" />
+  <img src="https://komarev.com/ghpvc/?username=rahim-ahmed-10&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
