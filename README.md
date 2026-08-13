@@ -10,12 +10,12 @@
   </a>
 </p>
 
-<!-- 🏆 Professional Badges Section -->
+<!-- 🏆 Badges -->
 <p align="center">
-  <a href="https://github.com/rahim-ahmed-10">
+  <a href="https://github.com/Rahim-Ahmed-10">
     <img src="https://img.shields.io/badge/Status-Learning%20Next.js-blue?style=for-the-badge&logo=next.js" alt="Status" />
   </a>
-  <a href="https://github.com/rahim-ahmed-10">
+  <a href="https://github.com/Rahim-Ahmed-10">
     <img src="https://img.shields.io/badge/Field-Full%20Stack%20Dev-orange?style=for-the-badge&logo=react" alt="Field" />
   </a>
   <a href="https://github.com/Rahim-Ahmed-10">
@@ -30,9 +30,29 @@
 
 ## 👨‍💻 About Me
 
-I am **Md. Rahim Miah**, a Humanities student and an aspiring **Full Stack Web Developer** based in Bangladesh. I am passionate about creating clean, responsive, and user-friendly web interfaces using modern technologies. My goal is to continuously learn and build impactful digital solutions.
+I am **Md. Rahim Miah**, an aspiring **Full Stack Web Developer** based in Bangladesh. I am passionate about creating clean, responsive, and user-friendly web interfaces using modern technologies. My goal is to continuously learn and build impactful digital solutions.
 
 🚀 **My current focus:** Mastering **React.js** and exploring the full potential of **Next.js** along with **Tailwind CSS**.
+
+---
+
+## 🚀 Featured Projects
+
+### 📌 [SquadCraft](https://github.com/Rahim-Ahmed-10/Squadraft-client)
+> A modern, full-stack sports management and tactical planning application built for football coaches, players, and team managers featuring interactive formation builders and squad tracking.
+
+* **Frontend:** `Next.js (App Router)` `Tailwind CSS` `Lucide React`
+* **Backend:** `Node.js` `Express.js` `MongoDB Atlas` `JWT`
+* 🔗 **Links:** [Live Demo](https://squadraft-client.vercel.app) | [GitHub Repo](https://github.com/Rahim-Ahmed-10/Squadraft-client)
+
+<br>
+
+### 📌 [MediCare Connect](https://github.com/Rahim-Ahmed-10/medicare-connect-client)
+> A comprehensive healthcare digital ecosystem allowing patients to find doctors, book appointments, make secure online payments, and access digital prescriptions with dedicated portals for doctors and admins.
+
+* **Frontend:** `Next.js (App Router)` `Tailwind CSS` `Framer Motion` `Recharts`
+* **Backend:** `Node.js` `Express.js` `MongoDB` `Stripe` `Firebase Auth`
+* 🔗 **Links:** [Live Demo](https://medicare-connect-client-theta.vercel.app) | [GitHub Repo](https://github.com/Rahim-Ahmed-10/medicare-connect-client)
 
 ---
 
@@ -64,20 +84,25 @@ I am **Md. Rahim Miah**, a Humanities student and an aspiring **Full Stack Web D
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rahim-Ahmed-10&theme=tokyonight&no-frame=true&column=4" alt="Trophies" />
+</p>
+
+---
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <!-- ১. স্ট্রিক কার্ড (১০০% সচল) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahim-Ahmed-10&theme=tokyonight&hide_border=true" alt="Rahim Streak" height="175" />
+  <img src="https://streak-stats.demolab.com/?user=Rahim-Ahmed-10&theme=tokyonight&hide_border=true" alt="Rahim Streak" />
 </p>
 
 <p align="center">
-  <!-- ২. অ্যাক্টিভিটি গ্রাফ (১০০% সচল) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahim-Ahmed-10&theme=tokyonight&hide_border=true" alt="Rahim Activity Graph" width="100%" />
 </p>
 
 <p align="center">
-  <!-- ৩. প্রোফাইল সামারি কার্ডস (বিকল্প সচল সার্ভার) -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rahim-Ahmed-10&theme=tokyonight" alt="Profile Summary" width="100%" />
 </p>
 
@@ -87,8 +112,15 @@ I am **Md. Rahim Miah**, a Humanities student and an aspiring **Full Stack Web D
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of a team.
 
-* 📧 **Email:** `rahimahmed01690@gmail.com`
-* 💬 **Facebook:** [Md. Rahim Miah](https://fb.com/100071816113262)
+<p align="left">
+  <a href="mailto:rahimahmed01690@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a> &nbsp;
+  <a href="https://fb.com/100071816113262" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
+
 * 🌐 **Portfolio:** [Coming Soon!](https://rahim-digital-portfolio.netlify.app)
 
 <br>
