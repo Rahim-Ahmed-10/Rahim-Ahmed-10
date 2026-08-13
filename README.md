@@ -10,12 +10,12 @@
   </a>
 </p>
 
-<!-- 🏆 Badges -->
+<!-- 🏆 Professional Badges Section -->
 <p align="center">
-  <a href="https://github.com/Rahim-Ahmed-10">
+  <a href="https://github.com/rahim-ahmed-10">
     <img src="https://img.shields.io/badge/Status-Learning%20Next.js-blue?style=for-the-badge&logo=next.js" alt="Status" />
   </a>
-  <a href="https://github.com/Rahim-Ahmed-10">
+  <a href="https://github.com/rahim-ahmed-10">
     <img src="https://img.shields.io/badge/Field-Full%20Stack%20Dev-orange?style=for-the-badge&logo=react" alt="Field" />
   </a>
   <a href="https://github.com/Rahim-Ahmed-10">
@@ -30,27 +30,9 @@
 
 ## 👨‍💻 About Me
 
-I am **Md. Rahim Miah**, an aspiring **Full Stack Web Developer** based in Bangladesh. I am passionate about creating clean, responsive, and user-friendly web interfaces using modern technologies. My goal is to continuously learn and build impactful digital solutions.
+I am **Md. Rahim Miah**, a Humanities student and an aspiring **Full Stack Web Developer** based in Bangladesh. I am passionate about creating clean, responsive, and user-friendly web interfaces using modern technologies. My goal is to continuously learn and build impactful digital solutions.
 
 🚀 **My current focus:** Mastering **React.js** and exploring the full potential of **Next.js** along with **Tailwind CSS**.
-
----
-
-## 🚀 Featured Projects
-
-### 📌 [Job Application Tracker](https://github.com/Rahim-Ahmed-10)
-> Dynamic dashboard designed to efficiently manage, track, and filter active job applications in real time.
-
-* **Tech Stack:** `React.js` `Tailwind CSS` `Express.js` `Node.js`
-* 🔗 **Links:** [Live Demo](#) | [GitHub Repo](https://github.com/Rahim-Ahmed-10)
-
-<br>
-
-### 📌 [GitHub Issue Tracker](https://github.com/Rahim-Ahmed-10)
-> Clean and interactive web dashboard built for dynamic searching, state-lifting, and issue management.
-
-* **Tech Stack:** `React.js` `Tailwind CSS` `JavaScript`
-* 🔗 **Links:** [Live Demo](#) | [GitHub Repo](https://github.com/Rahim-Ahmed-10)
 
 ---
 
@@ -82,28 +64,20 @@ I am **Md. Rahim Miah**, an aspiring **Full Stack Web Developer** based in Bangl
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rahim-Ahmed-10&theme=tokyonight&no-frame=true&column=4" alt="Trophies" />
-</p>
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <!-- সচল স্ট্রিক কার্ড API -->
-  <img src="https://streak-stats.demolab.com/?user=Rahim-Ahmed-10&theme=tokyonight&hide_border=true" alt="Rahim Streak" />
+  <!-- ১. স্ট্রিক কার্ড (১০০% সচল) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahim-Ahmed-10&theme=tokyonight&hide_border=true" alt="Rahim Streak" height="175" />
 </p>
 
 <p align="center">
-  <!-- অ্যাক্টিভিটি গ্রাফ -->
+  <!-- ২. অ্যাক্টিভিটি গ্রাফ (১০০% সচল) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahim-Ahmed-10&theme=tokyonight&hide_border=true" alt="Rahim Activity Graph" width="100%" />
 </p>
 
 <p align="center">
-  <!-- প্রোফাইল সামারি কার্ডস -->
+  <!-- ৩. প্রোফাইল সামারি কার্ডস (বিকল্প সচল সার্ভার) -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rahim-Ahmed-10&theme=tokyonight" alt="Profile Summary" width="100%" />
 </p>
 
@@ -113,15 +87,8 @@ I am **Md. Rahim Miah**, an aspiring **Full Stack Web Developer** based in Bangl
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of a team.
 
-<p align="left">
-  <a href="mailto:rahimahmed01690@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a> &nbsp;
-  <a href="https://fb.com/100071816113262" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-</p>
-
+* 📧 **Email:** `rahimahmed01690@gmail.com`
+* 💬 **Facebook:** [Md. Rahim Miah](https://fb.com/100071816113262)
 * 🌐 **Portfolio:** [Coming Soon!](https://rahim-digital-portfolio.netlify.app)
 
 <br>
