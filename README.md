@@ -32,7 +32,15 @@
 
 I am **Md. Rahim Miah**, an aspiring **Full Stack Web Developer** based in Bangladesh. I am passionate about creating clean, responsive, and user-friendly web interfaces using modern technologies. My goal is to continuously learn and build impactful digital solutions.
 
-🚀 **My current focus:** Mastering **React.js** and exploring the full potential of **Next.js** along with **Tailwind CSS**.
+🚀 **Current Focus:** Mastering **React.js**, **Next.js**, and building scalable backend architectures.
+
+---
+
+## ⚡ Fast Facts
+
+* 🎓 Transitioning from a Humanities background into full-time Software Engineering with relentless dedication.
+* 💻 Spending **6–7 hours daily** writing code, resolving complex bugs, and upgrading technical skills.
+* ⚽ When I'm not coding, you can find me playing midfield for my local football club!
 
 ---
 
@@ -84,6 +92,14 @@ I am **Md. Rahim Miah**, an aspiring **Full Stack Web Developer** based in Bangl
 
 ---
 
+## 🐍 Contribution Graph Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rahim-Ahmed-10/Rahim-Ahmed-10/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+</p>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -92,7 +108,12 @@ I am **Md. Rahim Miah**, an aspiring **Full Stack Web Developer** based in Bangl
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Statistics & Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahim-Ahmed-10&show_icons=true&theme=tokyonight&hide_border=true" alt="Rahim Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahim-Ahmed-10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Rahim-Ahmed-10&theme=tokyonight&hide_border=true" alt="Rahim Streak" />
@@ -102,8 +123,12 @@ I am **Md. Rahim Miah**, an aspiring **Full Stack Web Developer** based in Bangl
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahim-Ahmed-10&theme=tokyonight&hide_border=true" alt="Rahim Activity Graph" width="100%" />
 </p>
 
+---
+
+## 💬 Daily Dev Quote
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rahim-Ahmed-10&theme=tokyonight" alt="Profile Summary" width="100%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
 ---
@@ -118,6 +143,9 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
   </a> &nbsp;
   <a href="https://fb.com/100071816113262" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a> &nbsp;
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
