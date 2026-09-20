@@ -1,18 +1,18 @@
 <div align="center">
 
-  <!-- Dynamic Premium Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:007acc,100:181717&height=220&section=header&text=Md.%20Rahim%20Miah&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="Header Banner" />
+  <!-- Premium Capsule Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:007acc,100:161b22&height=220&section=header&text=Md.%20Rahim%20Miah&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="Md Rahim Miah Banner" />
 
   <br/>
 
-  <!-- Interactive Typing SVG -->
+  <!-- Dynamic Typing SVG Header -->
   <a href="https://github.com/Rahim-Ahmed-10">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&width=500&lines=Full+Stack+Web+Developer;MERN+%26+Next.js+Specialist;Building+Scalable+Web+Applications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&width=550&lines=Full+Stack+Web+Developer;MERN+%26+Next.js+Specialist;Building+Scalable+Web+Applications;Turning+Ideas+Into+Functional+Products" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- Professional Badges -->
+  <!-- Live Status & Social Badges -->
   <p align="center">
     <a href="https://github.com/Rahim-Ahmed-10"><img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-007ACC?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
     <a href="https://github.com/Rahim-Ahmed-10"><img src="https://img.shields.io/badge/Stack-MERN%20%2F%20Next.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
@@ -28,9 +28,9 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 **Current Focus:** Building scalable web applications using **Next.js 15 (App Router)**, **TypeScript**, and **Express.js**.
-- 🎓 **Engineering Journey:** Transitioned from a Humanities background into full-time Software Engineering through intense daily coding.
-- ⚡ **Commitment:** Dedicated **6–7 hours daily** to problem solving, optimizing full-stack APIs, and refining UI/UX architecture.
+- 🔭 **Current Focus:** Engineering high-performance web applications with **Next.js 15 (App Router)**, **TypeScript**, and **Express.js**.
+- 🎓 **Engineering Journey:** Transitioned into full-time Software Engineering through intensive daily application development and project building.
+- ⚡ **Commitment:** Devoting **6–7 hours daily** to core logic building, API optimization, and clean architectural design.
 - ⚽ **Personal Interest:** Active midfielder for local football club Brothers FC Kolatuli!
 
 <br/>
@@ -44,36 +44,36 @@
     <td width="50%" valign="top">
       <h3 align="center">🎨 Frontend Engineering</h3>
       <p align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="38" height="38"/> &nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="38" height="38"/> &nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="38" height="38"/> &nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="ts" width="38" height="38"/> &nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="38" height="38"/> &nbsp;
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="38" height="38"/> &nbsp;
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="38" height="38"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="38" height="38"/> &nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="38" height="38"/> &nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="38" height="38"/> &nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="38" height="38"/> &nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="38" height="38"/> &nbsp;
+        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="38" height="38"/> &nbsp;
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="38" height="38"/>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">⚙️ Backend & Architecture</h3>
       <p align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="38" height="38"/> &nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="38" height="38"/> &nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="38" height="38"/> &nbsp;
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="38" height="38"/> &nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="38" height="38"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="38" height="38"/> &nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="38" height="38"/> &nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="38" height="38"/> &nbsp;
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="38" height="38"/> &nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="Prisma ORM" width="38" height="38"/>
       </p>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3 align="center">🛠️ Workflow & Development Tools</h3>
+      <h3 align="center">🛠️ Workflow & Infrastructure Tools</h3>
       <p align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="38" height="38"/> &nbsp;
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="38" height="38"/> &nbsp;
-        <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="38" height="38"/> &nbsp;
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="38" height="38"/> &nbsp;
-        <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="38" height="38"/> &nbsp;
-        <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="38" height="38"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="38" height="38"/> &nbsp;
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="38" height="38"/> &nbsp;
+        <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="38" height="38"/> &nbsp;
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="38" height="38"/> &nbsp;
+        <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="38" height="38"/> &nbsp;
+        <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="38" height="38"/>
       </p>
     </td>
   </tr>
@@ -83,7 +83,7 @@
 
 ---
 
-## 🚀 Featured Masterpieces
+## 🚀 Featured Production Projects
 
 <br/>
 
@@ -92,7 +92,7 @@
     <td width="50%" valign="top">
       <h3 align="center">⚽ SquadCraft</h3>
       <p align="center"><b>Sports Management & Tactical Planning Platform</b></p>
-      <p>Full-stack football management system with interactive formation builders, squad tracking, and tactical planning tools.</p>
+      <p>Full-stack football management platform featuring interactive squad arrangement builders, tactical lineup configurations, and team roster management.</p>
       <hr/>
       <p><b>✨ Key Tech:</b> <code>Next.js 15</code>, <code>Tailwind CSS</code>, <code>Node.js</code>, <code>MongoDB</code>, <code>JWT</code></p>
       <div align="center">
@@ -102,8 +102,8 @@
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🏥 MediCare Connect</h3>
-      <p align="center"><b>Healthcare Ecosystem & Telemedicine</b></p>
-      <p>Complete healthcare digital ecosystem featuring doctor consultation booking, Stripe payments, and medical dashboards.</p>
+      <p align="center"><b>Healthcare Digital Ecosystem & Telemedicine</b></p>
+      <p>Comprehensive healthcare web portal enabling online doctor consultations, appointment booking, Stripe payment integration, and real-time patient management.</p>
       <hr/>
       <p><b>✨ Key Tech:</b> <code>Next.js</code>, <code>Express.js</code>, <code>MongoDB</code>, <code>Stripe</code>, <code>Framer Motion</code></p>
       <div align="center">
@@ -118,16 +118,16 @@
 
 ---
 
-## 📊 Analytics & Coding Activity
+## 📊 Analytics & Coding Contributions
 
 <div align="center">
 
   <!-- GitHub Streak Card -->
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahim-Ahmed-10&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+    <img src="https://streak-stats.demolab.com/?user=Rahim-Ahmed-10&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
   </p>
 
-  <!-- GitHub Stats Card -->
+  <!-- GitHub Main Stats Card -->
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Rahim-Ahmed-10&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   </p>
@@ -141,7 +141,7 @@
 ## 💬 Developer Mindset
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" />
 </div>
 
 <br/>
@@ -151,7 +151,7 @@
 ## 📬 Let's Connect & Collaborate
 
 <div align="center">
-  <p>I'm always open to full-time remote/onsite developer positions, freelance opportunities, and open-source projects.</p>
+  <p>I am open to full-time remote/onsite developer positions, freelance contracts, and open-source contributions.</p>
 
   <a href="mailto:rahimahmed01690@gmail.com">
     <img src="https://img.shields.io/badge/Email-rahimahmed01690%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
