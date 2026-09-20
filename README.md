@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Premium Capsule Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:007acc,100:161b22&height=220&section=header&text=Md.%20Rahim%20Miah&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="Md Rahim Miah Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:007acc,100:161b22&height=220&section=header&text=Md.%20Rahim%20Miah&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="MD Rahim Miah Banner" />
 
   <br/>
 
