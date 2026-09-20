@@ -7,7 +7,7 @@
 
   <!-- Dynamic Typing SVG Header -->
   <a href="https://github.com/Rahim-Ahmed-10">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&width=550&lines=Full+Stack+Web+Developer;MERN+%26+Next.js+Specialist;Building+Scalable+Web+Applications;Turning+Ideas+Into+Functional+Products" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&width=550&lines=Full+Stack+Web+Developer;Full+Stack+%26+Next.js+Specialist;Building+Scalable+Web+Applications;Turning+Ideas+Into+Functional+Products" alt="Typing SVG" />
   </a>
 
   <br/><br/>
