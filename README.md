@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- Header Typing SVG -->
+  <!-- Fixed Typing SVG Engine -->
   <a href="https://github.com/Rahim-Ahmed-10">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&width=500&lines=Hi+there!+I'm+Md.+Rahim+Miah+👋;Full+Stack+Web+Developer;Specialized+in+React%2C+Next.js+%26+Node.js;Welcome+to+my+Developer+Space!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&width=500&lines=Hi+there!+I'm+Md.+Rahim+Miah+👋;Full+Stack+Web+Developer;Specialized+in+React%2C+Next.js+%26+Node.js;Welcome+to+my+Developer+Space!" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -44,25 +44,23 @@
     <td width="50%" valign="top">
       <h3 align="center">🎨 Frontend Engineering</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Next.js%2015-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="38" height="38"/> &nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="38" height="38"/> &nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="38" height="38"/> &nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="ts" width="38" height="38"/> &nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="38" height="38"/> &nbsp;
+        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="38" height="38"/> &nbsp;
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="38" height="38"/>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">⚙️ Backend & Architecture</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Stripe_API-008CDD?style=for-the-badge&logo=stripe&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="38" height="38"/> &nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="38" height="38"/> &nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="38" height="38"/> &nbsp;
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="38" height="38"/> &nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="38" height="38"/>
       </p>
     </td>
   </tr>
@@ -70,12 +68,12 @@
     <td colspan="2" valign="top">
       <h3 align="center">🛠️ Workflow & Development Tools</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="38" height="38"/> &nbsp;
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="38" height="38"/> &nbsp;
+        <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="38" height="38"/> &nbsp;
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="38" height="38"/> &nbsp;
+        <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="38" height="38"/> &nbsp;
+        <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="38" height="38"/>
       </p>
     </td>
   </tr>
@@ -120,29 +118,18 @@
 
 ---
 
-## 🐍 Activity & Contribution Stream
-
-<div align="center">
-  <!-- Contribution Snake Animation -->
-  <img src="https://raw.githubusercontent.com/Rahim-Ahmed-10/Rahim-Ahmed-10/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
-</div>
-
-<br/>
-
----
-
-## 📊 Analytics & Coding Streak
+## 📊 Analytics & Coding Activity
 
 <div align="center">
 
-  <!-- Coding Streak -->
+  <!-- GitHub Streak Card (Stable Engine) -->
   <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=Rahim-Ahmed-10&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahim-Ahmed-10&theme=tokyonight&hide_border=true" alt="Streak Stats" />
   </p>
 
-  <!-- Activity Wave Graph -->
+  <!-- GitHub Stats Card -->
   <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahim-Ahmed-10&theme=tokyonight&hide_border=true" alt="Activity Graph" width="100%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Rahim-Ahmed-10&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   </p>
 
 </div>
