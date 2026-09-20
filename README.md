@@ -1,13 +1,13 @@
 <div align="center">
 
   <!-- Premium Capsule Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:007acc,100:161b22&height=220&section=header&text=Md.%20Rahim%20Miah&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="MD Rahim Miah Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:007acc,100:161b22&height=220&section=header&text=Md.%20Rahim%20Miah&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="Md Rahim Miah Banner" />
 
   <br/>
 
   <!-- Dynamic Typing SVG Header -->
   <a href="https://github.com/Rahim-Ahmed-10">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&width=550&lines=Full+Stack+Web+Developer;Full+Stack+%26+Next.js+Specialist;Building+Scalable+Web+Applications;Turning+Ideas+Into+Functional+Products" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&width=550&lines=Full+Stack+Software+Developer;Next.js+%26+TypeScript+Specialist;Building+Scalable+Web+Applications;Turning+Ideas+Into+Functional+Products" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -15,7 +15,7 @@
   <!-- Live Status & Social Badges -->
   <p align="center">
     <a href="https://github.com/Rahim-Ahmed-10"><img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-007ACC?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-    <a href="https://github.com/Rahim-Ahmed-10"><img src="https://img.shields.io/badge/Stack-Full-Stack%20%2F%20Next.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
+    <a href="https://github.com/Rahim-Ahmed-10"><img src="https://img.shields.io/badge/Stack-Full--Stack%20Web%20Dev-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
     <a href="https://github.com/Rahim-Ahmed-10"><img src="https://img.shields.io/badge/Location-Bangladesh-FF4B4B?style=for-the-badge&logo=googlemaps&logoColor=white" /></a>
     <a href="mailto:rahimahmed01690@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-Open%20To%20Work-43A047?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   </p>
@@ -28,9 +28,9 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 **Current Focus:** Engineering high-performance web applications with **Next.js 15 (App Router)**, **TypeScript**, and **Express.js**.
-- 🎓 **Engineering Journey:** Transitioned into full-time Software Engineering through intensive daily application development and project building.
-- ⚡ **Commitment:** Devoting **6–7 hours daily** to core logic building, API optimization, and clean architectural design.
+- 🔭 **Current Focus:** Engineering scalable full-stack web applications with **Next.js 15 (App Router)**, **TypeScript**, and **Express.js**.
+- 🎓 **Engineering Journey:** Transitioned into full-time Software Engineering through intensive daily application development and full-stack project building.
+- ⚡ **Commitment:** Devoting **6–7 hours daily** to core logic building, API optimization, and end-to-end web architecture design.
 - ⚽ **Personal Interest:** Active midfielder for local football club Brothers FC Kolatuli!
 
 <br/>
@@ -151,7 +151,7 @@
 ## 📬 Let's Connect & Collaborate
 
 <div align="center">
-  <p>I am open to full-time remote/onsite developer positions, freelance contracts, and open-source contributions.</p>
+  <p>I am open to full-time remote/onsite Full Stack Developer positions, freelance contracts, and open-source contributions.</p>
 
   <a href="mailto:rahimahmed01690@gmail.com">
     <img src="https://img.shields.io/badge/Email-rahimahmed01690%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
