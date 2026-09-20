@@ -1,18 +1,18 @@
 <div align="center">
 
-  <!-- Fixed Typing SVG Engine -->
+  <!-- Dynamic Premium Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:007acc,100:181717&height=220&section=header&text=Md.%20Rahim%20Miah&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="Header Banner" />
+
+  <br/>
+
+  <!-- Interactive Typing SVG -->
   <a href="https://github.com/Rahim-Ahmed-10">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&width=500&lines=Hi+there!+I'm+Md.+Rahim+Miah+👋;Full+Stack+Web+Developer;Specialized+in+React%2C+Next.js+%26+Node.js;Welcome+to+my+Developer+Space!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&width=500&lines=Full+Stack+Web+Developer;MERN+%26+Next.js+Specialist;Building+Scalable+Web+Applications" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- Banner -->
-  <p align="center">
-    <img src="https://github.com/user-attachments/assets/daff3db0-432d-4b85-9f40-d8fbd8093149" width="100%" alt="Rahim Miah Banner" style="border-radius: 12px;" />
-  </p>
-
-  <!-- Badges -->
+  <!-- Professional Badges -->
   <p align="center">
     <a href="https://github.com/Rahim-Ahmed-10"><img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-007ACC?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
     <a href="https://github.com/Rahim-Ahmed-10"><img src="https://img.shields.io/badge/Stack-MERN%20%2F%20Next.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
@@ -122,7 +122,7 @@
 
 <div align="center">
 
-  <!-- GitHub Streak Card (Stable Engine) -->
+  <!-- GitHub Streak Card -->
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahim-Ahmed-10&theme=tokyonight&hide_border=true" alt="Streak Stats" />
   </p>
