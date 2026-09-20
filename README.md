@@ -15,7 +15,7 @@
   <!-- Live Status & Social Badges -->
   <p align="center">
     <a href="https://github.com/Rahim-Ahmed-10"><img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-007ACC?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-    <a href="https://github.com/Rahim-Ahmed-10"><img src="https://img.shields.io/badge/Stack-MERN%20%2F%20Next.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
+    <a href="https://github.com/Rahim-Ahmed-10"><img src="https://img.shields.io/badge/Stack-Full-Stack%20%2F%20Next.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
     <a href="https://github.com/Rahim-Ahmed-10"><img src="https://img.shields.io/badge/Location-Bangladesh-FF4B4B?style=for-the-badge&logo=googlemaps&logoColor=white" /></a>
     <a href="mailto:rahimahmed01690@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-Open%20To%20Work-43A047?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   </p>
