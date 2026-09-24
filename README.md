@@ -1,9 +1,11 @@
 <div align="center">
 
-  <!-- Dynamic 3D Cyber Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,30:007acc,70:00f2fe,100:0d1117&height=220&section=header&text=Md.%20Rahim%20Miah&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%" alt="3D Modern Tech Banner" />
+  <!-- 3D Cyber Grid Tech Banner -->
+  <a href="https://github.com/Rahim-Ahmed-10">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=320&section=header&text=Md.%20Rahim%20Miah&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlign=35&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20Next.js%2015%20%26%20TypeScript&descSize=18&descAlign=35&descAlignY=62" width="100%" alt="3D Cyber Banner" />
+  </a>
 
-  <br/>
+  <br/><br/>
 
   <!-- Dynamic Typing Header -->
   <a href="https://github.com/Rahim-Ahmed-10">
