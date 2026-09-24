@@ -1,13 +1,13 @@
 <div align="center">
 
-  <!-- ==================== 3D PREMIUM BANNER ==================== -->
+  <!-- ==================== BANNER ==================== -->
   <img src="./assets/profile-banner.png" width="100%" alt="Md. Rahim Miah - Full Stack Web Developer" />
 
   <br/><br/>
 
   <!-- ==================== TYPING HEADER ==================== -->
   <a href="https://github.com/Rahim-Ahmed-10">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Next.js+%26+TypeScript+Developer;Building+Scalable+Web+Applications;Turning+Ideas+Into+Functional+Products" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Next.js+15+%26+TypeScript+Developer;Building+Scalable+Web+Applications;Turning+Ideas+Into+Functional+Products" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -15,7 +15,7 @@
   <!-- ==================== PROFILE BADGES ==================== -->
   <p align="center">
     <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-007ACC?style=for-the-badge&logo=codeforces&logoColor=white" />
-    <img src="https://img.shields.io/badge/Stack-MERN%20%2B%20Next.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Stack-Next.js%2015%20%7C%20TypeScript-00F2FE?style=for-the-badge&logo=nextdotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/Location-Bangladesh-FF4B4B?style=for-the-badge&logo=googlemaps&logoColor=white" />
     <img src="https://img.shields.io/badge/Hire%20Me-Open%20To%20Work-43A047?style=for-the-badge&logo=linkedin&logoColor=white" />
   </p>
@@ -28,15 +28,15 @@
 
 # 👨‍💻 About Me
 
-Hi! I'm **Md. Rahim Miah**[cite: 20, 21], a passionate **Full Stack Web Developer** from Bangladesh[cite: 20].
+Hi! I'm **Md. Rahim Miah**, a passionate **Full Stack Web Developer** from Bangladesh.
 
 I enjoy building modern, scalable, and user-friendly web applications with a strong focus on clean code, performance, and real-world problem solving.
 
 ### 🚀 Currently Working On
 
-- 🔭 Building full-stack applications using **Next.js, React.js, and Express.js**[cite: 20]
-- 🧠 Improving my knowledge of **TypeScript, DSA, and Problem Solving**[cite: 20]
-- 🤖 Exploring **AI integrations and AI-powered applications**[cite: 20]
+- 🔭 Building full-stack applications using **Next.js, React.js, and Express.js**
+- 🧠 Improving my knowledge of **TypeScript, DSA, and Problem Solving**
+- 🤖 Exploring **AI integrations and AI-powered applications**
 - ⚡ Working on scalable APIs and modern web architectures
 - 🌱 Continuously learning new technologies and development practices
 
@@ -55,7 +55,7 @@ I enjoy football and actively play as a midfielder for **Brothers FC Kolatuli**.
 <div align="center">
 
 ### 🎨 Frontend Development
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -66,7 +66,7 @@ I enjoy football and actively play as a midfielder for **Brothers FC Kolatuli**.
 </p>
 
 ### ⚙️ Backend & Database
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -76,14 +76,14 @@ I enjoy football and actively play as a midfielder for **Brothers FC Kolatuli**.
 </p>
 
 ### 💳 APIs & Integrations
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
   <img src="https://img.shields.io/badge/Authentication-000000?style=for-the-badge&logo=auth0&logoColor=white" />
 </p>
 
 ### 🛠️ Tools & Workflow
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -120,8 +120,8 @@ I enjoy football and actively play as a midfielder for **Brothers FC Kolatuli**.
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">⚽ SquadCraft</h3>
-      <p align="center"><b>Sports Management & Tactical Planning Platform</b>[cite: 22]</p>
-      <p>A full-stack football management platform designed for squad management, tactical planning, and interactive lineup configuration.[cite: 22]</p>
+      <p align="center"><b>Sports Management & Tactical Planning Platform</b></p>
+      <p>A full-stack football management platform designed for squad management, tactical planning, and interactive lineup configuration.</p>
       <br/>
       <h4>✨ Key Features:</h4>
       <ul>
@@ -132,38 +132,38 @@ I enjoy football and actively play as a midfielder for **Brothers FC Kolatuli**.
         <li>📱 Fully Responsive interface</li>
       </ul>
       <br/>
-      <p><b>🧰 Technologies:</b> <code>Next.js 15</code>, <code>Tailwind CSS</code>, <code>Node.js</code>, <code>MongoDB</code>, <code>JWT</code>[cite: 22]</p>
+      <p><b>🧰 Technologies:</b> <code>Next.js 15</code>, <code>Tailwind CSS</code>, <code>Node.js</code>, <code>MongoDB</code>, <code>JWT</code></p>
       <hr/>
       <div align="center">
-        <a href="https://squadraft-client.vercel.app">
+        <a href="https://squadraft-client.vercel.app" target="_blank">
           <img src="https://img.shields.io/badge/🌐%20Live%20Application-007ACC?style=for-the-badge" />
         </a>
-        <a href="https://github.com/Rahim-Ahmed-10/Squadraft-client">
+        <a href="https://github.com/Rahim-Ahmed-10/Squadraft-client" target="_blank">
           <img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github" />
         </a>
       </div>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🏥 MediCare Connect</h3>
-      <p align="center"><b>Healthcare Digital Ecosystem & Telemedicine</b>[cite: 22]</p>
-      <p>A comprehensive healthcare platform connecting patients with doctors through appointment booking, digital healthcare services, and online payments.[cite: 22]</p>
+      <p align="center"><b>Healthcare Digital Ecosystem & Telemedicine</b></p>
+      <p>A comprehensive healthcare platform connecting patients with doctors through appointment booking, digital healthcare services, and online payments.</p>
       <br/>
       <h4>✨ Key Features:</h4>
       <ul>
         <li>👨‍⚕️ Doctor management</li>
         <li>📅 Appointment booking</li>
-        <li>💳 Stripe payment integration[cite: 22]</li>
+        <li>💳 Stripe payment integration</li>
         <li>👤 Patient management & Dashboard</li>
-        <li>🎨 Framer Motion animations[cite: 22]</li>
+        <li>🎨 Framer Motion animations</li>
       </ul>
       <br/>
-      <p><b>🧰 Technologies:</b> <code>Next.js</code>, <code>Express.js</code>, <code>MongoDB</code>, <code>Stripe</code>, <code>Framer Motion</code>[cite: 22]</p>
+      <p><b>🧰 Technologies:</b> <code>Next.js</code>, <code>Express.js</code>, <code>MongoDB</code>, <code>Stripe</code>, <code>Framer Motion</code></p>
       <hr/>
       <div align="center">
-        <a href="https://medicare-connect-client-theta.vercel.app">
+        <a href="https://medicare-connect-client-theta.vercel.app" target="_blank">
           <img src="https://img.shields.io/badge/🌐%20Live%20Application-007ACC?style=for-the-badge" />
         </a>
-        <a href="https://github.com/Rahim-Ahmed-10/medicare-connect-client">
+        <a href="https://github.com/Rahim-Ahmed-10/medicare-connect-client" target="_blank">
           <img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github" />
         </a>
       </div>
@@ -179,7 +179,7 @@ I enjoy football and actively play as a midfielder for **Brothers FC Kolatuli**.
 
 <div align="center">
   <a href="https://github.com/Rahim-Ahmed-10">
-    <img src="https://github-profile-trophy.vercel.app/?username=Rahim-Ahmed-10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" width="100%" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Rahim-Ahmed-10&theme=darkhub&column=6&margin-w=15&margin-h=15" width="100%" alt="GitHub Trophies" />
   </a>
 </div>
 
@@ -188,14 +188,20 @@ I enjoy football and actively play as a midfielder for **Brothers FC Kolatuli**.
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahim-Ahmed-10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Rahim-Ahmed-10&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+  <a href="https://github.com/Rahim-Ahmed-10">
+    <img src="https://github-readme-stats.vercel.app/api?username=Rahim-Ahmed-10&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Rahim-Ahmed-10">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahim-Ahmed-10&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahim-Ahmed-10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="45%" alt="Top Languages" />
+  <a href="https://github.com/Rahim-Ahmed-10">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahim-Ahmed-10&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  </a>
 </div>
 
 <br/>
@@ -203,7 +209,9 @@ I enjoy football and actively play as a midfielder for **Brothers FC Kolatuli**.
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahim-Ahmed-10&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph" />
+  <a href="https://github.com/Rahim-Ahmed-10">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahim-Ahmed-10&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Contribution Graph" />
+  </a>
 </div>
 
 <br/>
@@ -322,7 +330,7 @@ Full-Time Roles • Remote Jobs • Onsite Jobs • Freelance Projects • Contr
 | **💳 Payments** | Stripe |
 | **🛠️ Tools** | Git • GitHub • Postman • VS Code |
 | **☁️ Deployment** | Vercel • Netlify |
-| **🌍 Location** | Bangladesh[cite: 20] |
+| **🌍 Location** | Bangladesh |
 | **💼 Availability** | Open To Work |
 
 </div>
