@@ -1,41 +1,34 @@
 <div align="center">
+  
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1E3A8A,100:0EA5E9&height=200&section=header&text=Md.%20Rahim%20Miah&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descAlignY=55&descSize=18" width="100%" />
 
-<!-- Banner - Working -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E40AF,100:06B6D4&height=220&section=header&text=Md.%20Rahim%20Miah&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Web%20Developer%20%7C%20Next.js%20%26%20TypeScript&descAlignY=52&descSize=16" width="100%" alt="Md. Rahim Miah" />
+<br/>
 
-<br/><br/>
-
-<!-- Typing Animation - Working -->
-<a href="https://github.com/Rahim-Ahmed-10">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Next.js+%26+TypeScript+Specialist;Building+Scalable+Web+Applications;Turning+Ideas+Into+Functional+Products" alt="Typing SVG" />
-</a>
+<!-- Typing Text -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Next.js+%26+TypeScript+Specialist;Building+Scalable+Web+Apps" alt="Typing SVG" />
 
 <br/><br/>
 
 <!-- Badges -->
-<img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-0EA5E9?style=for-the-badge&logo=codeforces&logoColor=white" alt="Role"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Stack-React%20%2B%20Next.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Stack"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Location-Bangladesh-EF4444?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Status-Open%20To%20Work-22C55E?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open To Work"/>
+<img src="https://img.shields.io/badge/Full_Stack_Developer-0EA5E9?style=for-the-badge&logo=code&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Bangladesh-EF4444?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Open_To_Work-22C55E?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 </div>
-
-<br/>
 
 ---
 
 ### 👨‍💻 About Me
 
-Hi! I'm **Md. Rahim Miah**, a passionate **Full Stack Web Developer** from Bangladesh.
+I'm **Md. Rahim Miah**, a Full Stack Web Developer from Bangladesh who loves turning ideas into clean, scalable and user-friendly products.
 
-- 🚀 Currently working with **React.js, Next.js & Express.js** to build clean and user-friendly UIs
-- 🤖 Learning **TypeScript, AI integrations, DSA & Problem Solving**
-- ✨ Focused on building **fast & intuitive AI-powered products**
-- 🌐 Portfolio → [rahim-digital-portfolio.netlify.app](https://rahim-digital-portfolio.netlify.app)
-- ⚡ Fun Fact: I love learning new technologies and solving real-world problems
+- Currently building with **React, Next.js & Express.js**
+- Exploring **TypeScript, AI integrations & Problem Solving**
+- Focused on creating **fast and modern web applications**
+- Portfolio: [rahim-digital-portfolio.netlify.app](https://rahim-digital-portfolio.netlify.app)
 
 ---
 
@@ -43,14 +36,13 @@ Hi! I'm **Md. Rahim Miah**, a passionate **Full Stack Web Developer** from Bangl
 
 <div align="center">
 
-**Frontend**  
-`HTML5` • `CSS3` • `JavaScript` • `TypeScript` • `React` • `Next.js` • `Tailwind CSS`
-
-**Backend & Database**  
-`Node.js` • `Express.js` • `MongoDB` • `Firebase` • `Prisma`
-
-**Tools & Deployment**  
-`VS Code` • `Git` • `GitHub` • `Postman` • `Vercel` • `Netlify`
+| Frontend | Backend | Tools |
+|:--------:|:-------:|:-----:|
+| React | Node.js | VS Code |
+| Next.js | Express.js | Git & GitHub |
+| TypeScript | MongoDB | Vercel |
+| Tailwind CSS | Prisma | Netlify |
+| JavaScript | Firebase | Postman |
 
 </div>
 
@@ -58,68 +50,56 @@ Hi! I'm **Md. Rahim Miah**, a passionate **Full Stack Web Developer** from Bangl
 
 ### 🚀 Featured Projects
 
-#### ⚽ SquadCraft
+#### SquadCraft
 **Sports Management & Tactical Planning Platform**
 
-Interactive squad builder, tactical lineup planning and team roster management.
+A full-stack football management app with interactive squad builders, tactical lineups and team management.
 
-**Tech:** `Next.js 15` • `Tailwind CSS` • `Node.js` • `MongoDB` • `JWT`
+`Next.js` `Tailwind` `Node.js` `MongoDB` `JWT`
 
-[![Live Application](https://img.shields.io/badge/🌐_Live_Application-0EA5E9?style=for-the-badge)](https://squadraft-client.vercel.app)
-[![Source Code](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Rahim-Ahmed-10/Squadraft-client)
-
----
-
-#### 🏥 MediCare Connect
-**Healthcare Digital Ecosystem & Telemedicine**
-
-Doctor consultations, appointment booking, Stripe payments and patient management.
-
-**Tech:** `Next.js` • `Express.js` • `MongoDB` • `Stripe` • `Framer Motion`
-
-[![Live Application](https://img.shields.io/badge/🌐_Live_Application-0EA5E9?style=for-the-badge)](https://medicare-connect-client-theta.vercel.app)
-[![Source Code](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Rahim-Ahmed-10/medicare-connect-client)
+[Live Demo](https://squadraft-client.vercel.app) • [Source Code](https://github.com/Rahim-Ahmed-10/Squadraft-client)
 
 ---
 
-### 🔥 GitHub Streak
+#### MediCare Connect
+**Healthcare & Telemedicine Platform**
+
+Complete healthcare solution with doctor booking, online consultation, Stripe payments and patient dashboard.
+
+`Next.js` `Express.js` `MongoDB` `Stripe` `Framer Motion`
+
+[Live Demo](https://medicare-connect-client-theta.vercel.app) • [Source Code](https://github.com/Rahim-Ahmed-10/medicare-connect-client)
+
+---
+
+### 🔥 Contribution Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rahim-Ahmed-10&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Rahim-Ahmed-10&theme=radical&hide_border=true&border_radius=8" alt="Streak" />
 </div>
-
----
-
-### 💭 Developer Mindset
-
-> **Better Code + Better Ideas = A Brighter Future**
 
 ---
 
 ### 📬 Let's Connect
 
-I'm open to **Full Stack Developer** positions (remote/onsite), freelance work and open-source collaboration.
+I'm open to **Full Stack Developer** opportunities, freelance projects and collaboration.
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-rahimahmed01690%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahimahmed01690@gmail.com)
-&nbsp;
+[![Email](https://img.shields.io/badge/Email-rahimahmed01690@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahimahmed01690@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-Md.%20Rahim%20Miah-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/100071816113262)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://rahim-digital-portfolio.netlify.app)
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=rahim-ahmed-10&label=Profile%20Views&color=0EA5E9&style=for-the-badge" alt="Profile Views"/>
-
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://rahim-digital-portfolio.netlify.app)
 
 <br/>
+
+<img src="https://komarev.com/ghpvc/?username=rahim-ahmed-10&label=Profile%20Views&color=0EA5E9&style=flat" alt="Profile Views" />
+
+</div>
 
 ---
 
 <div align="center">
-
-**💻 Code • 🚀 Build • 🧠 Learn • 🔥 Improve • 🔁 Repeat**
+  
+**Code • Build • Learn • Improve**
 
 </div>
