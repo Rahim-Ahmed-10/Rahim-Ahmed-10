@@ -1,20 +1,18 @@
 <div align="center">
 
-  <!-- 100% Working Cyber Tech Banner -->
+  <!-- Premium Capsule Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:007acc,100:161b22&height=220&section=header&text=Md.%20Rahim%20Miah&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="Md Rahim Miah Banner" />
+
+  <br/>
+
+  <!-- Dynamic Typing SVG Header -->
   <a href="https://github.com/Rahim-Ahmed-10">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00f2fe,100:007acc&height=260&section=header&text=Md.%20Rahim%20Miah&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlign=50&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Next.js%2015%20%26%20TypeScript&descSize=18&descAlign=50&descAlignY=62&descColor=e6edf3" width="100%" alt="Md. Rahim Miah Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&width=550&lines=Full+Stack+Wev+Developer;Next.js+%26+TypeScript+Specialist;Building+Scalable+Web+Applications;Turning+Ideas+Into+Functional+Products" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- Dynamic Typing Header -->
-  <a href="https://github.com/Rahim-Ahmed-10">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&width=550&lines=Full+Stack+Developer;Next.js+15+%26+TypeScript+Specialist;Building+Scalable+Web+Applications;Turning+Ideas+Into+Functional+Products" alt="Typing SVG" />
-  </a>
-
-  <br/><br/>
-
-  <!-- Status & Role Badges -->
+  <!-- Live Status & Social Badges -->
   <p align="center">
     <a href="https://github.com/Rahim-Ahmed-10"><img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-007ACC?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
     <a href="https://github.com/Rahim-Ahmed-10"><img src="https://img.shields.io/badge/Stack-Full--Stack%20Web%20Dev-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
@@ -30,34 +28,10 @@
 
 ## 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <ul>
-        <li>🔭 <b>Current Focus:</b> Engineering scalable full-stack web applications with <b>Next.js 15 (App Router)</b>, <b>TypeScript</b>, and <b>Express.js</b>.</li>
-        <li>🎓 <b>Engineering Journey:</b> Transitioned into full-time Software Engineering through intensive daily application development and full-stack project building.</li>
-        <li>⚡ <b>Commitment:</b> Devoting <b>6–7 hours daily</b> to core logic building, API optimization, and end-to-end web architecture design.</li>
-        <li>⚽ <b>Personal Interest:</b> Active midfielder for local football club Brothers FC Kolatuli!</li>
-        <li>⚡ <b>Fun Fact:</b> Passionate about optimizing backend APIs and creating seamless interactive UI transitions.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="Developer Coding GIF" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Rahim-Ahmed-10&theme=tokyonight&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
-  </a>
-</div>
+- 🔭 **Current Focus:** Engineering scalable full-stack web applications with **Next.js 15 (App Router)**, **TypeScript**, and **Express.js**.
+- 🎓 **Engineering Journey:** Transitioned into full-time Software Engineering through intensive daily application development and full-stack project building.
+- ⚡ **Commitment:** Devoting **6–7 hours daily** to core logic building, API optimization, and end-to-end web architecture design.
+- ⚽ **Personal Interest:** Active midfielder for local football club Brothers FC Kolatuli!
 
 <br/>
 
