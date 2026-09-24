@@ -23,29 +23,27 @@
 
 ---
 
-## 👤 About Me
+# 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <br/>
-      <p>I am a passionate <b>Full Stack Web Developer</b> who transforms ideas into high-performance, scalable digital applications.</p>
-      <ul>
-        <li>🚀 <b>Core Stack:</b> Specialized in building modern web platforms using <b>Next.js 15, React, Node.js, Express, and MongoDB</b>.</li>
-        <li>💡 <b>Engineering Approach:</b> Dedicated to writing clean, maintainable code with a strong focus on security, SEO, and fast performance.</li>
-        <li>🤖 <b>R&D Focus:</b> Continuously enhancing skills in <b>TypeScript, Data Structures & Algorithms (DSA)</b>, and integrating AI workflows.</li>
-        <li>⚡ <b>Beyond Coding:</b> Active midfielder for <i>Brothers FC Kolatuli</i>, applying the same strategic teamwork on and off the field.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://cdn.dribbble.com/users/3484830/screenshots/16787618/media/b948f98889151f158917812d099958ee.gif" width="100%" alt="Web Development Illustration" />
-    </td>
-  </tr>
-</table>
+Hi! I'm **Md. Rahim Miah**, a passionate **Full Stack Web Developer** from Bangladesh.
 
-<br/>
+I enjoy building modern, scalable and user-friendly web applications with a strong focus on clean code, performance and real-world problem solving.
 
----
+### 🚀 Currently Working On
+
+- 🔭 Building full-stack applications using **Next.js, React.js and Express.js**
+- 🧠 Improving my knowledge of **TypeScript, DSA and Problem Solving**
+- 🤖 Exploring **AI integrations and AI-powered applications**
+- ⚡ Working on scalable APIs and modern web architectures
+- 🌱 Continuously learning new technologies and development practices
+
+### 💡 My Goal
+
+> **Turning ideas into functional, scalable and user-friendly digital products.**
+
+### ⚽ Fun Fact
+
+I enjoy football and actively play as a midfielder for **Brothers FC Kolatuli**.
 
 > **"Code is not just syntax; it's the art of building reliable solutions that drive business growth and deliver flawless user experiences."**
 
