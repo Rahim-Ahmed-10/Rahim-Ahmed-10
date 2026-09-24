@@ -1,33 +1,25 @@
 <div align="center">
 
-<!-- ==================== PREMIUM BANNER (No local image needed) ==================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E40AF,100:06B6D4&height=220&section=header&text=Md.%20Rahim%20Miah&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Web%20Developer%20%7C%20Next.js%20%26%20TypeScript&descAlignY=52&descSize=16" width="100%" alt="Md. Rahim Miah - Full Stack Web Developer" />
+<!-- Banner - Working -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E40AF,100:06B6D4&height=220&section=header&text=Md.%20Rahim%20Miah&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Web%20Developer%20%7C%20Next.js%20%26%20TypeScript&descAlignY=52&descSize=16" width="100%" alt="Md. Rahim Miah" />
 
 <br/><br/>
 
-<!-- ==================== TYPING HEADER ==================== -->
+<!-- Typing Animation - Working -->
 <a href="https://github.com/Rahim-Ahmed-10">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Next.js+%26+TypeScript+Specialist;Building+Scalable+Web+Applications;Turning+Ideas+Into+Functional+Products" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- ==================== BADGES ==================== -->
-<a href="https://github.com/Rahim-Ahmed-10">
-  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-0EA5E9?style=for-the-badge&logo=codeforces&logoColor=white" alt="Role"/>
-</a>
+<!-- Badges -->
+<img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-0EA5E9?style=for-the-badge&logo=codeforces&logoColor=white" alt="Role"/>
 &nbsp;
-<a href="https://github.com/Rahim-Ahmed-10">
-  <img src="https://img.shields.io/badge/Stack-React%20%2B%20Next.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Stack"/>
-</a>
+<img src="https://img.shields.io/badge/Stack-React%20%2B%20Next.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Stack"/>
 &nbsp;
-<a href="https://github.com/Rahim-Ahmed-10">
-  <img src="https://img.shields.io/badge/Location-Bangladesh-EF4444?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
-</a>
+<img src="https://img.shields.io/badge/Location-Bangladesh-EF4444?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 &nbsp;
-<a href="mailto:rahimahmed01690@gmail.com">
-  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-22C55E?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open To Work"/>
-</a>
+<img src="https://img.shields.io/badge/Status-Open%20To%20Work-22C55E?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open To Work"/>
 
 </div>
 
@@ -47,7 +39,7 @@ Hi! I'm **Md. Rahim Miah**, a passionate **Full Stack Web Developer** from Bangl
 
 ---
 
-### 🛠️ Tech Stack & Capabilities
+### 🛠️ Tech Stack
 
 <div align="center">
 
@@ -64,74 +56,49 @@ Hi! I'm **Md. Rahim Miah**, a passionate **Full Stack Web Developer** from Bangl
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rahim-Ahmed-10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2" alt="GitHub Trophies" />
-</div>
-
----
-
 ### 🚀 Featured Projects
 
 #### ⚽ SquadCraft
 **Sports Management & Tactical Planning Platform**
 
-Interactive squad builder, tactical lineup planning, team roster management with modern UI.
+Interactive squad builder, tactical lineup planning and team roster management.
 
 **Tech:** `Next.js 15` • `Tailwind CSS` • `Node.js` • `MongoDB` • `JWT`
 
-[![Live](https://img.shields.io/badge/🌐_Live_Application-0EA5E9?style=for-the-badge)](https://squadraft-client.vercel.app)
-[![Source](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Rahim-Ahmed-10/Squadraft-client)
+[![Live Application](https://img.shields.io/badge/🌐_Live_Application-0EA5E9?style=for-the-badge)](https://squadraft-client.vercel.app)
+[![Source Code](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Rahim-Ahmed-10/Squadraft-client)
 
 ---
 
 #### 🏥 MediCare Connect
 **Healthcare Digital Ecosystem & Telemedicine**
 
-Doctor consultations, appointment booking, Stripe payments, real-time patient management.
+Doctor consultations, appointment booking, Stripe payments and patient management.
 
 **Tech:** `Next.js` • `Express.js` • `MongoDB` • `Stripe` • `Framer Motion`
 
-[![Live](https://img.shields.io/badge/🌐_Live_Application-0EA5E9?style=for-the-badge)](https://medicare-connect-client-theta.vercel.app)
-[![Source](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Rahim-Ahmed-10/medicare-connect-client)
+[![Live Application](https://img.shields.io/badge/🌐_Live_Application-0EA5E9?style=for-the-badge)](https://medicare-connect-client-theta.vercel.app)
+[![Source Code](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Rahim-Ahmed-10/medicare-connect-client)
 
 ---
 
-### 📊 GitHub Analytics
+### 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahim-Ahmed-10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com/?user=Rahim-Ahmed-10&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahim-Ahmed-10&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahim-Ahmed-10&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
+  <img src="https://streak-stats.demolab.com/?user=Rahim-Ahmed-10&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
 ### 💭 Developer Mindset
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Better+Code+%2B+Better+Ideas+%3D+A+Brighter+Future&author=Md.+Rahim+Miah" alt="Quote"/>
-</div>
+> **Better Code + Better Ideas = A Brighter Future**
 
 ---
 
 ### 📬 Let's Connect
 
-I'm open to **Full Stack Developer** roles (remote/onsite), freelance projects & open-source collaboration.
+I'm open to **Full Stack Developer** positions (remote/onsite), freelance work and open-source collaboration.
 
 <div align="center">
 
