@@ -94,54 +94,72 @@ I enjoy football and actively play as a midfielder for **Brothers FC Kolatuli**.
 
 ---
 
-## 🚀 Featured Enterprise Projects
+# 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">⚽ SquadCraft</h3>
-      <p align="center"><b>Sports Management & Tactical Planning Platform</b></p>
-      <br/>
-      <ul>
-        <li><b>Dynamic Tactics Engine:</b> Interactive drag-and-drop squad pitch layouts.</li>
-        <li><b>Roster Control:</b> Full team data management, player roles, and performance stats.</li>
-        <li><b>Secure Auth:</b> JWT-based authentication flow protecting user squads.</li>
-      </ul>
-      <br/>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js%2015-000000?style=flat-square&logo=next.js" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb" />
-      </p>
-      <hr/>
-      <div align="center">
-        <a href="https://squadraft-client.vercel.app" target="_blank"><b>🌐 Live Demo</b></a> &nbsp;|&nbsp; 
-        <a href="https://github.com/Rahim-Ahmed-10/Squadraft-client" target="_blank"><b>💻 Source Code</b></a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🏥 MediCare Connect</h3>
-      <p align="center"><b>Digital Healthcare Ecosystem & Telemedicine</b></p>
-      <br/>
-      <ul>
-        <li><b>Patient Care:</b> Seamless online doctor appointment scheduling module.</li>
-        <li><b>Stripe Integration:</b> Secure online medical consultation bill processing.</li>
-        <li><b>Interactive UI:</b> Animated user dashboard powered by Framer Motion.</li>
-      </ul>
-      <br/>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express" />
-        <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe" />
-      </p>
-      <hr/>
-      <div align="center">
-        <a href="https://medicare-connect-client-theta.vercel.app" target="_blank"><b>🌐 Live Demo</b></a> &nbsp;|&nbsp; 
-        <a href="https://github.com/Rahim-Ahmed-10/medicare-connect-client" target="_blank"><b>💻 Source Code</b></a>
-      </div>
-    </td>
-  </tr>
-</table>
+## ⚽ SquadCraft
+
+### Sports Management & Tactical Planning Platform
+
+A full-stack football management platform designed for squad management, tactical planning and interactive lineup configuration.
+
+### ✨ Features
+
+- ⚽ Interactive squad builder
+- 🧠 Tactical lineup planning
+- 👥 Team roster management
+- 🔐 Authentication
+- 📱 Responsive UI
+- ⚡ Fast and modern user experience
+
+**Tech Stack**
+
+`Next.js 15` `Tailwind CSS` `Node.js` `MongoDB` `JWT`
+
+<div align="center">
+
+<a href="https://squadraft-client.vercel.app">
+<img src="https://img.shields.io/badge/🌐%20Live%20Application-007ACC?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/Rahim-Ahmed-10/Squadraft-client">
+<img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github" />
+</a>
+
+</div>
+
+---
+
+## 🏥 MediCare Connect
+
+### Healthcare Digital Ecosystem & Telemedicine
+
+A comprehensive healthcare platform that connects patients with doctors and provides appointment booking, online consultations and payment functionality.
+
+### ✨ Features
+
+- 👨‍⚕️ Doctor management
+- 📅 Appointment booking
+- 💳 Stripe payment integration
+- 👤 Patient management
+- ⭐ Review & rating system
+- 📊 Dashboard
+- 🎨 Framer Motion animations
+
+**Tech Stack**
+
+`Next.js` `Express.js` `MongoDB` `Stripe` `Framer Motion`
+
+<div align="center">
+
+<a href="https://medicare-connect-client-theta.vercel.app">
+<img src="https://img.shields.io/badge/🌐%20Live%20Application-007ACC?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/Rahim-Ahmed-10/medicare-connect-client">
+<img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github" />
+</a>
+
+</div>
 
 <br/>
 
