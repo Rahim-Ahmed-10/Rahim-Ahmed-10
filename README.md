@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- 3D Cyber Grid Tech Banner (Fully Working) -->
+  <!-- 100% Working Cyber Tech Banner -->
   <a href="https://github.com/Rahim-Ahmed-10">
-    <img src="https://raw.githubusercontent.com/Rahim-Ahmed-10/Rahim-Ahmed-10/main/banner.svg" width="100%" alt="Md. Rahim Miah - Cyber Banner" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00f2fe,100:007acc&height=260&section=header&text=Md.%20Rahim%20Miah&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlign=50&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Next.js%2015%20%26%20TypeScript&descSize=18&descAlign=50&descAlignY=62&descColor=e6edf3" width="100%" alt="Md. Rahim Miah Banner" />
   </a>
 
   <br/><br/>
