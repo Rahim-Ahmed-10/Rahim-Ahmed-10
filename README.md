@@ -1,68 +1,39 @@
 <div align="center">
 
-<!-- ===================== PREMIUM 3D HEADER ===================== -->
-
+<!-- ==================== 3D PREMIUM BANNER ==================== -->
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,30:007ACC,65:00C6FF,100:111827&height=260&section=header&text=Md.%20Rahim%20Miah&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=60&descSize=22&animation=twinkling"
-  width="100%"
-  alt="Md. Rahim Miah"
-/>
-
-<br/>
-
-<!-- ===================== TYPING TEXT ===================== -->
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;Next.js+%26+TypeScript+Developer;Building+Scalable+Web+Applications;Turning+Ideas+Into+Functional+Products"
-  alt="Typing SVG"
+src="./assets/profile-banner.png"
+width="100%"
+alt="Md. Rahim Miah - Full Stack Web Developer"
 />
 
 <br/><br/>
 
-<!-- ===================== BADGES ===================== -->
-
+<!-- ==================== TYPING HEADER ==================== -->
 <a href="https://github.com/Rahim-Ahmed-10">
-  <img
-    src="https://img.shields.io/badge/Full%20Stack%20Developer-007ACC?style=for-the-badge&logo=react&logoColor=white"
-    alt="Full Stack Developer"
-  />
-</a>
-
-<a href="https://github.com/Rahim-Ahmed-10">
-  <img
-    src="https://img.shields.io/badge/Next.js%20%7C%20TypeScript-111827?style=for-the-badge&logo=next.js&logoColor=white"
-    alt="Next.js TypeScript"
-  />
-</a>
-
-<a href="https://github.com/Rahim-Ahmed-10">
-  <img
-    src="https://img.shields.io/badge/Bangladesh-006A4E?style=for-the-badge&logo=googlemaps&logoColor=white"
-    alt="Bangladesh"
-  />
-</a>
-
-<a href="mailto:rahimahmed01690@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Open%20To%20Work-16A34A?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="Open To Work"
-  />
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Next.js+%26+TypeScript+Specialist;Building+Scalable+Web+Applications;Turning+Ideas+Into+Functional+Products"
+alt="Typing SVG"
+/>
 </a>
 
 <br/><br/>
 
-<a href="https://rahim-digital-portfolio.netlify.app">
-  <img
-    src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"
-    alt="Portfolio"
-  />
+<!-- ==================== PROFILE BADGES ==================== -->
+<a href="https://github.com/Rahim-Ahmed-10">
+<img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-007ACC?style=for-the-badge&logo=codeforces&logoColor=white" alt="Role"/>
 </a>
-
+&nbsp;
+<a href="https://github.com/Rahim-Ahmed-10">
+<img src="https://img.shields.io/badge/Stack-React%20%2B%20Next.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Stack"/>
+</a>
+&nbsp;
+<a href="https://github.com/Rahim-Ahmed-10">
+<img src="https://img.shields.io/badge/Location-Bangladesh-FF4B4B?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+</a>
+&nbsp;
 <a href="mailto:rahimahmed01690@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
+<img src="https://img.shields.io/badge/Status-Open%20To%20Work-43A047?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open To Work"/>
 </a>
 
 </div>
@@ -75,22 +46,170 @@
 
 Hi! I'm **Md. Rahim Miah**, a passionate **Full Stack Web Developer** from Bangladesh.
 
-I enjoy building modern, scalable and user-friendly web applications with a strong focus on clean code, performance and real-world problem solving.
+- 🚀 I'm currently working on **React.js, Next.js, Express.js** for designing clean and user-friendly UIs.
+- 🤖 I'm currently learning **TypeScript, AI integrations, DSA & Problem Solving**.
+- ✨ I'm focused on building **fast & intuitive AI-powered products**.
+- 🌐 All of my projects are available at [https://rahim-digital-portfolio.netlify.app](https://rahim-digital-portfolio.netlify.app)
+- 📫 Reach me at **Email** and **LinkedIn**
+- ⚡ **Fun Fact:** I love learning new technologies and solving real-world problems.
 
-### 🚀 Currently Working On
+---
 
-- 🔭 Building full-stack applications using **Next.js, React.js and Express.js**
-- 🧠 Improving my knowledge of **TypeScript, DSA and Problem Solving**
-- 🤖 Exploring **AI integrations and AI-powered applications**
-- ⚡ Building scalable APIs and modern web architectures
-- 🌱 Continuously learning new technologies and development practices
+# 🛠️ Tech Stack & Capabilities
 
-### 🎯 My Development Focus
+<div align="center">
 
-```text
-Frontend        → React.js • Next.js • TypeScript
-Backend         → Node.js • Express.js
-Database        → MongoDB • Firebase • Prisma
-Authentication  → JWT • Secure Authentication
-Tools           → Git • GitHub • Postman • VS Code
-Deployment      → Vercel • Netlify
+### 🎨 Frontend Engineering
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42" height="42"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="42" height="42"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42" height="42"/>
+
+`HTML5` • `CSS3` • `JavaScript` • `TypeScript` • `React` • `Next.js` • `Tailwind CSS`
+
+---
+
+### ⚙️ Backend & Architecture
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="42" height="42"/>
+
+`Node.js` • `Express.js` • `MongoDB` • `Firebase` • `Prisma ORM`
+
+---
+
+### 🛠️ Workflow & Infrastructure Tools
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="42" height="42"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" height="42"/>
+<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="42" height="42"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="42" height="42"/>
+<img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="42" height="42"/>
+<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="42" height="42"/>
+
+`VS Code` • `Git` • `GitHub` • `Postman` • `Vercel` • `Netlify`
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Rahim-Ahmed-10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=6" alt="GitHub Trophies"/>
+</div>
+
+---
+
+# 🚀 Featured Production Projects
+
+### ⚽ SquadCraft
+**Sports Management & Tactical Planning Platform**
+
+Full-stack football management platform featuring interactive squad arrangement builders, tactical lineup configurations, and team roster management.
+
+**Key Tech:** `Next.js 15` • `Tailwind CSS` • `Node.js` • `MongoDB` • `JWT`
+
+<div align="center">
+<a href="https://squadraft-client.vercel.app">
+<img src="https://img.shields.io/badge/🌐%20Live%20Application-007ACC?style=for-the-badge"/>
+</a>
+&nbsp;
+<a href="https://github.com/Rahim-Ahmed-10/Squadraft-client">
+<img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github"/>
+</a>
+</div>
+
+---
+
+### 🏥 MediCare Connect
+**Healthcare Digital Ecosystem & Telemedicine**
+
+Comprehensive healthcare web portal enabling online doctor consultations, appointment booking, Stripe payment integration, and real-time patient management.
+
+**Key Tech:** `Next.js` • `Express.js` • `MongoDB` • `Stripe` • `Framer Motion`
+
+<div align="center">
+<a href="https://medicare-connect-client-theta.vercel.app">
+<img src="https://img.shields.io/badge/🌐%20Live%20Application-007ACC?style=for-the-badge"/>
+</a>
+&nbsp;
+<a href="https://github.com/Rahim-Ahmed-10/medicare-connect-client">
+<img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github"/>
+</a>
+</div>
+
+---
+
+# 📊 Analytics & Coding Contributions
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Rahim-Ahmed-10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahim-Ahmed-10&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahim-Ahmed-10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahim-Ahmed-10&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph"/>
+</div>
+
+---
+
+# 💭 Developer Mindset
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Better+Code+%2B+Better+Ideas+%3D+A+Brighter+Future&author=Md.+Rahim+Miah" alt="Developer Quote"/>
+</div>
+
+---
+
+# 📬 Let's Connect & Collaborate
+
+I'm open to **full-time remote/onsite Full Stack Developer positions**, freelance contracts, and open-source contributions.
+
+<div align="center">
+
+<a href="mailto:rahimahmed01690@gmail.com">
+<img src="https://img.shields.io/badge/Email-rahimahmed01690%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://fb.com/100071816113262">
+<img src="https://img.shields.io/badge/Facebook-Md.%20Rahim%20Miah-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://rahim-digital-portfolio.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=rahim-ahmed-10&label=Profile%20Views&color=007ACC&style=for-the-badge" alt="Profile Views"/>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### ⭐ If you find my work interesting, feel free to explore my repositories!
+
+<br/>
+
+**💻 Code • 🚀 Build • 🧠 Learn • 🔥 Improve • 🔁 Repeat**
+
+</div>
