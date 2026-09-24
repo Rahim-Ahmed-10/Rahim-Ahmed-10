@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- 3D Cyber Grid Tech Banner -->
+  <!-- Fixed GitHub-Hosted Banner Image -->
   <a href="https://github.com/Rahim-Ahmed-10">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=320&section=header&text=Md.%20Rahim%20Miah&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlign=35&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20Next.js%2015%20%26%20TypeScript&descSize=18&descAlign=35&descAlignY=62" width="100%" alt="3D Cyber Banner" />
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="3D Cyber Banner" />
   </a>
 
   <br/><br/>
@@ -11,16 +11,6 @@
   <a href="https://github.com/Rahim-Ahmed-10">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&width=550&lines=Full+Stack+Developer;Next.js+15+%26+TypeScript+Specialist;Building+Scalable+Web+Applications;Turning+Ideas+Into+Functional+Products" alt="Typing SVG" />
   </a>
-
-  <br/><br/>
-
-  <!-- Status & Role Badges -->
-  <p align="center">
-    <a href="https://github.com/Rahim-Ahmed-10"><img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-007ACC?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-    <a href="https://github.com/Rahim-Ahmed-10"><img src="https://img.shields.io/badge/Stack-Full--Stack%20Web%20Dev-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
-    <a href="https://github.com/Rahim-Ahmed-10"><img src="https://img.shields.io/badge/Location-Bangladesh-FF4B4B?style=for-the-badge&logo=googlemaps&logoColor=white" /></a>
-    <a href="mailto:rahimahmed01690@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-Open%20To%20Work-43A047?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  </p>
 
 </div>
 
