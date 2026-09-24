@@ -1,25 +1,18 @@
 <div align="center">
 
-  <!-- Executive Cyber Banner (Capsule Render API) -->
+  <!-- Clean Animated Typing Banner -->
   <a href="https://github.com/Rahim-Ahmed-10">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00f2fe,100:007acc&height=260&section=header&text=Md.%20Rahim%20Miah&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlign=50&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%7C%20Next.js%2015%20%26%20TypeScript&descSize=18&descAlign=50&descAlignY=62&descColor=e6edf3" width="100%" alt="Md. Rahim Miah Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=Md.+Rahim+Miah;Full+Stack+Software+Engineer;Next.js+15+%26+TypeScript+Specialist;Building+Scalable+Web+Applications" alt="Typing Banner" />
   </a>
 
   <br/><br/>
 
-  <!-- Dynamic Typing Header -->
-  <a href="https://github.com/Rahim-Ahmed-10">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Engineer;Next.js+15+%26+TypeScript+Specialist;Building+Scalable+Enterprise+Web+Apps;Turning+Complex+Ideas+Into+Functional+Products" alt="Typing SVG" />
-  </a>
-
-  <br/><br/>
-
-  <!-- Professional Status & Availability Badges -->
+  <!-- High-Reliability Badges -->
   <p align="center">
     <a href="https://github.com/Rahim-Ahmed-10"><img src="https://img.shields.io/badge/Status-Available%20for%20Hire-43A047?style=for-the-badge&logo=codeforces&logoColor=white" alt="Status" /></a>
     <a href="https://github.com/Rahim-Ahmed-10"><img src="https://img.shields.io/badge/Role-Full%20Stack%20Engineer-007ACC?style=for-the-badge&logo=react&logoColor=white" alt="Role" /></a>
     <a href="https://github.com/Rahim-Ahmed-10"><img src="https://img.shields.io/badge/Stack-Next.js%2015%20%2B%20TypeScript-61DAFB?style=for-the-badge&logo=next.js&logoColor=black" alt="Stack" /></a>
-    <a href="mailto:rahimahmed01690@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-Send%20Offer-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire Me" /></a>
+    <a href="mailto:rahimahmed01690@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-Send%20Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire Me" /></a>
   </p>
 
 </div>
@@ -52,7 +45,7 @@
 
 ---
 
-# 🛠️ Technical Stack & Expertise
+# 🛠️ Technical Stack & Capabilities
 
 <div align="center">
 
@@ -62,13 +55,13 @@
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" /> &nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40" /> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42" height="42" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42" height="42" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" height="42" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42" height="42" /> &nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="42" height="42" /> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42" height="42" />
 </p>
 
 ---
@@ -79,27 +72,27 @@
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="40" height="40" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="42" height="42" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="42" height="42" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="42" height="42" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="42" height="42" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" width="42" height="42" />
 </p>
 
 ---
 
-### 🛠️ Development Tools & Infrastructure
+### 🛠️ Workflow & Infrastructure Tools
 `VS Code` • `Git` • `GitHub` • `Postman` • `Vercel` • `Netlify` • `Stripe API`
 
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" /> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" /> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40" /> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" /> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" height="40" /> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="42" height="42" /> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" height="42" /> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="42" height="42" /> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="42" height="42" /> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="42" height="42" /> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="42" height="42" />
 </p>
 
 </div>
@@ -108,7 +101,7 @@
 
 ---
 
-# 🚀 Highlighted Commercial & Production Projects
+# 🚀 Highlighted Production Projects
 
 <table>
   <tr>
@@ -119,7 +112,7 @@
       <hr/>
       <p><b>⚡ Stack:</b> <code>Next.js 15</code>, <code>Tailwind CSS</code>, <code>Express.js</code>, <code>MongoDB</code>, <code>JWT</code></p>
       <div align="center">
-        <a href="https://squadraft-client.vercel.app" target="_blank">🌐 Live Demo</a> | 
+        <a href="https://squadraft-client.vercel.app" target="_blank">🌐 Live Application</a> | 
         <a href="https://github.com/Rahim-Ahmed-10/Squadraft-client" target="_blank">💻 Source Code</a>
       </div>
     </td>
@@ -141,63 +134,11 @@
 
 ---
 
-# 📊 GitHub Engineering Metrics
+# 📬 Contact & Direct Recruitment
 
 <div align="center">
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Rahim-Ahmed-10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
-    <img src="https://streak-stats.demolab.com/?user=Rahim-Ahmed-10&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahim-Ahmed-10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </p>
-
-</div>
-
-<br/>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Rahim-Ahmed-10&theme=tokyonight&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
-  </a>
-</div>
-
-<br/>
-
----
-
-# 📈 Contribution Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahim-Ahmed-10&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph" />
-</div>
-
-<br/>
-
----
-
-# 💬 Engineering Mindset & Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" />
-</div>
-
-<br/>
-
----
-
-# 📬 Get In Touch (Recruiters & Engineering Leads)
-
-<div align="center">
-
-  <p><b>I am actively seeking Full-Time Remote / On-Site Full Stack Developer roles.</b></p>
-  <p>Feel free to reach out directly via Email or Portfolio for interview scheduling.</p>
+  <p><b>Actively seeking Full-Time Remote / On-Site Full Stack Developer roles.</b></p>
 
   <br/>
 
